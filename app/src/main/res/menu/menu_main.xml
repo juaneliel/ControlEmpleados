@@ -3,8 +3,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.juan.controlempleados.MainActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/crearMarca"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="@string/crearMarca"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ajustarDatos"
+        android:orderInCategory="100"
+        android:title="@string/ajustarDatos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/listarMisMarcas"
+        android:orderInCategory="100"
+        android:title="@string/listarMisMarcas"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/salir"
+        android:orderInCategory="100"
+        android:title="@string/salir"
         app:showAsAction="never" />
 </menu>
