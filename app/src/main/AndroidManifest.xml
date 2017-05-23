@@ -7,6 +7,7 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -33,7 +34,10 @@
             android:label="@string/title_activity_envio_locacion"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-
+        <activity
+            android:name=".EnvioOffLine"
+            android:label="@string/title_activity_envio_off_line"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

@@ -19,4 +19,5 @@
     <string name="ertec_control_de_empleados">Ertec Control de Empleados</string>
     <string name="ingresar">Ingresar</string>
     <string name="nombre">Nombre</string>
+    <string name="title_activity_envio_off_line">EnvioOffLine</string>
 </resources>
