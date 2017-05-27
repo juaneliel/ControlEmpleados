@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">Control Empleados</string>
+    <string name="app_name">Ubica</string>
     <string name="crearMarca">Marcar</string>
     <string name="listarMisMarcas">Mis marcas</string>
     <string name="ajustarDatos">Cambiar datos</string>
     <string name="salir">Salir</string>
-    <string name="title_activity_envio_locacion">Envio Locacion</string>
+    <string name="title_activity_envio_locacion"></string>
     <string name="title_activity_tomar_foto">Tomar Foto</string>
     <string name="title_activity_ajustar_datos">AjustarDatos</string>
     <string name="title_activity_listar_mis_marcas">ListarMisMarcas</string>
@@ -16,8 +16,8 @@
     <string name="salida">Salida</string>
     <string name="subir_foto">Subir foto</string>
     <string name="clave">Clave</string>
-    <string name="ertec_control_de_empleados">Ertec Control de Empleados</string>
+    <string name="ertec_control_de_empleados">Ubica</string>
     <string name="ingresar">Ingresar</string>
-    <string name="nombre">Nombre</string>
+    <string name="nombre">Usuario</string>
     <string name="title_activity_envio_off_line">EnvioOffLine</string>
 </resources>
